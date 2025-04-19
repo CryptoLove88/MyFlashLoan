@@ -1,0 +1,61 @@
+{
+    "infura": {
+        "ws_url": "wss://mainnet.infura.io/ws/v3/ea0a5cbdb47b4dbfb799f3269d449904"
+    },
+    "pools": {
+        "0x4e665157291DBcb25152ebB01061E4012F58aDd2": {
+            "token0": "USD0",
+            "token0_address" : "0x73A15FeD60Bf67631dC6cd7Bc5B6e8da8190aCF5",
+            "token1": "USDC",
+            "token1_address" : "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+            "decimals0": 18,
+            "decimals1": 6,
+            "type": "uniswap"
+        },
+        "0x14154C15fc0fD3f91DE557a1B6FdD2059972Cd0B": {
+            "token0": "WETH",
+            "token0_address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+            "token1": "USUAL",
+            "token1_address": "0xC4441c2BE5d8fA8126822B9929CA0b81Ea0DE38E",
+            "decimals0": 18,
+            "decimals1": 18,
+            "type": "uniswap"
+        },
+        "0xE0554a476A092703abdB3Ef35c80e0D76d32939F": {
+            "token0": "USDC",
+            "token0_address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+            "token1": "WETH",
+            "token1_address": "0xC4441c2BE5d8fA8126822B9929CA0b81Ea0DE38E",
+            "decimals0": 6,
+            "decimals1": 18,
+            "type": "uniswap"
+        },
+        "0x1d08E7adC263CfC70b1BaBe6dC5Bb339c16Eec52": {
+            "token0": "USD0",
+            "token0_address": "0x73A15FeD60Bf67631dC6cd7Bc5B6e8da8190aCF5",
+            "token1": "USD0++",
+            "token1_address": "0x35D8949372D46B7a3D5A56006AE77B215fc69bC0",
+            "decimals0": 18,
+            "decimals1": 18,
+            "type": "curve"
+        },
+        "0x14100f81e33C33Ecc7CDac70181Fb45B6E78569F": {
+            "token0": "USD0",
+            "token0_address": "0x73A15FeD60Bf67631dC6cd7Bc5B6e8da8190aCF5",
+            "token1": "USDC",
+            "token1_address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+            "decimals0": 18,
+            "decimals1": 6,
+            "type": "curve"
+        },
+        "0xF2ce93d54e0b043fbe654eA73aAde9DFB092d2cc": {
+            "token0": "USD0",
+            "token0_address": "0x73A15FeD60Bf67631dC6cd7Bc5B6e8da8190aCF5",
+            "token1": "USDC",
+            "token1_address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+            "decimals0": 18,
+            "decimals1": 6,
+            "type": "curve"
+        }
+    }
+} 
